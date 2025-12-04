@@ -441,5 +441,5 @@ If you have questions or issues:
 **Stay safe, stay informed! 🔒**
 
 #### Credits
-- Volkan Sah
+- Volkan Sah (https://github.com/VolkanSah/HoneyPot-Worm)
 - Python Community

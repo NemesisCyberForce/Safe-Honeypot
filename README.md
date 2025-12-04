@@ -419,7 +419,7 @@ Contributions are welcome! Please:
 
 ## License
 
-MIT License – see LICENSE file
+GPL3 License – see LICENSE file
 
 ## Credits
 
@@ -439,3 +439,7 @@ If you have questions or issues:
 ---
 
 **Stay safe, stay informed! 🔒**
+
+#### Credits
+- Volkan Sah
+- Python Community

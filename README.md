@@ -6,13 +6,7 @@
 
 > I show you a working system,
 > 
-> …but only pros can extend it with true red or black logic 😙
-
-
-
-Safe Honeypot, a lightweight, production-ready SSH honeypot in Python for threat intelligence and attack detection on your own servers.
-
-> "Learn this stuff… otherwise I’ll send a very angry worm after you. (Just kidding. Probably.)"
+> and you must leran how  to extend it
 
 ## Features
 
